@@ -1,0 +1,6 @@
+.cube {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+
+    width: 720px;
+}

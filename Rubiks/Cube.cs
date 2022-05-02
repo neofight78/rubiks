@@ -32,7 +32,7 @@ public class Cube : ICube
     public Colour this[Face face, int row, int col]
     {
         get => _faces[(int)face, row, col];
-        private set => _faces[(int)face, row, col] = value;
+        internal set => _faces[(int)face, row, col] = value;
     }
 
     public ICube Clone()

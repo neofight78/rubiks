@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiks", "Rubiks\Rubiks.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiks.Test", "Rubiks.Test\Rubiks.Test.csproj", "{F9108CEA-B0B3-421B-8FFA-4D46C7B1F5D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubiks.Web", "Rubiks.Web\Rubiks.Web.csproj", "{B7D4B78F-E9FD-4475-90C6-D3CF62600A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F9108CEA-B0B3-421B-8FFA-4D46C7B1F5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9108CEA-B0B3-421B-8FFA-4D46C7B1F5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9108CEA-B0B3-421B-8FFA-4D46C7B1F5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D4B78F-E9FD-4475-90C6-D3CF62600A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D4B78F-E9FD-4475-90C6-D3CF62600A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D4B78F-E9FD-4475-90C6-D3CF62600A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D4B78F-E9FD-4475-90C6-D3CF62600A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -2,4 +2,6 @@
 /Rubiks.sln.DotSettings
 /Rubiks.sln.DotSettings.user
 bin/
+node_modules/
 obj/
+*.local

@@ -2,10 +2,10 @@
 
 public enum Face
 {
-    Front,
     Up,
-    Right,
-    Down,
     Left,
-    Back
+    Front,
+    Right,
+    Back,
+    Down
 }

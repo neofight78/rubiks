@@ -1,0 +1,17 @@
+.controls {
+    display: inline-grid;
+    gap: 0.5em;
+    grid-template-columns: repeat(7, 1fr);
+
+    margin: 0.5em;
+}
+
+.controls button {
+    background-color: lightgray;
+    border: 1px solid;
+    font-size: 1.5em;
+}
+
+.reset {
+    grid-row: span 2;
+}
